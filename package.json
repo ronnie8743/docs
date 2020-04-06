@@ -34,7 +34,7 @@
     "express": "^4.9.5",
     "handlebars-helper-equal": "^1.0.0",
     "harp": "^0.13.0",
-    "hbs": "^2.7.0",
+    "hbs": "^4.1.1",
     "html-frontmatter": "^1.2.1",
     "js-beautify": "^1.5.2",
     "leven": "^1.0.1",
